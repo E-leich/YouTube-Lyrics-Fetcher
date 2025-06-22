@@ -13,7 +13,7 @@ A simple GUI application that detects a YouTube song URL from your clipboard, fe
 
 ## 📦 Dependencies
 
-Install all dependencies using pip (preferably inside a virtual environment):
+Install all dependencies using pip:
 
 ```bash
 pip install lyricsgenius yt-dlp
@@ -38,14 +38,13 @@ sudo pacman -S tk wl-clipboard
 
 ## 🚀 Running the App
 
-1. Activate your virtual environment (if applicable)
-2. Run the script:
+1. Run the script:
 
 ```bash
 python youtube-lyric-fetcher.py
 ```
 
-3. Copy a YouTube song URL to clipboard — lyrics will appear!
+2. Copy a YouTube song URL to clipboard — lyrics will appear!
 
 ## 📝 Notes
 
