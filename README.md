@@ -1,4 +1,4 @@
-# 🎵 YouTube Lyrics Viewer
+# 🎵 YouTube Lyrics Fetcher
 
 A simple GUI application that detects a YouTube song URL from your clipboard, fetches its title, artist, and lyrics using the Genius API, and displays the lyrics in a clean interface.
 
